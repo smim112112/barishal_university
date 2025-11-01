@@ -169,6 +169,38 @@ body{
     border-radius: 5px;
     
 }
+.number{
+    background-image: url("https://www.bu.ac.bd/assets/img/bu-bg.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    opacity: 0.5;
+}
+
+.all-num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    
+}
+.number-card{
+    margin-top: 150px;
+    border: 1px solid gray;
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 8px;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+}
+.num-h{
+    color: rgb(8, 8, 8);
+}
+.numh{
+    color: #1b4978;
+}
 
 
 /* ========== Responsive ========== */
