@@ -280,6 +280,7 @@ body{
 
 .csw-cards{
     display: flex;
+    justify-content: space-between;
     gap: 30px;
     /* border: 1px solid gray; */
     width: 300px;
@@ -300,6 +301,30 @@ body{
     padding-top: 40px;
 }
 
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: #001f3f;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+
+.f-h{
+    color: white;
+}
+
+.f-con{
+    color: rgb(197, 190, 190);
+}
+.copy{
+    background-color: #1d5084;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 
 
 /* ========== Responsive ========== */
