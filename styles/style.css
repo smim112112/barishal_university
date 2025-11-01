@@ -142,6 +142,33 @@ body{
     z-index: -10;
 
 }
+.vc-card{
+    border-radius: 10px;
+    border: 1px solid gainsboro;
+    margin: 50px 100px;
+    box-shadow:5px 5px 15px rgb(106, 100, 100);
+}
+.vc-card-con{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.vc-img{
+    width: 150px;
+    border: 5px solid rgb(188, 186, 186);
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: -40px;
+}
+.vc-h{
+    color: #001f3f;
+}
+.vc-btn{
+    background-color: #001f3f;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
 
 
 /* ========== Responsive ========== */
