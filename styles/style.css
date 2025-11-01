@@ -201,6 +201,105 @@ body{
 .numh{
     color: #1b4978;
 }
+.noticeh{
+    color: #010e1a;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.btn{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    border-radius: 30px;
+    background-color: rgb(177, 227, 247);
+    padding: 15px 10px;
+    margin: 0px 400px;
+
+}
+.btn-con{
+    border-radius: 18px;
+    background-color: #184471;
+    color: #eee;
+    padding: 10px 10px;
+
+}
+.notice-cards{
+    margin: 20px 100px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+.ncard{
+    border: 1px solid gray;
+    display: flex;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(178, 177, 177);
+}
+.dmy{
+    text-align: center;
+    background-color: #001f3f;
+    padding: 10px;
+    margin: 10px;
+    color: #ddd;
+}
+.info{
+    margin: 10px;
+    padding: 10px;
+}
+.para{
+    font-weight: 700;
+}
+
+.van{
+    align-items: center;
+    margin-left: 725px;
+}
+
+.rue{
+    background-image: url(/images/istockphoto-1652302318-2048x2048.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+    
+}
+.rueh{
+    padding-top: 40px;
+}
+.csw{
+    margin: 30px 100px;
+}
+
+.hcsw{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #0b2b4a;
+}
+
+.csw-cards{
+    display: flex;
+    gap: 30px;
+    /* border: 1px solid gray; */
+    width: 300px;
+    height: 450px;
+    border-radius: 8px;
+
+}
+.csw-card{
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+.img-csw{
+    width: 300px;
+    border-radius: 8px;
+}
+.csw-con{
+    padding: 20px;
+    padding-top: 40px;
+}
+
 
 
 /* ========== Responsive ========== */
